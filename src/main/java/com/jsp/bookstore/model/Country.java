@@ -1,0 +1,5 @@
+package com.jsp.bookstore.model;
+
+public enum Country {
+	INDIA, NEPAL, UAE, USA, RUSSIA, BANGLADESH, PAKISTAN, AFGANISHTAN, AUSTRALIA, NEWZELAND, SRILANKA, CHINA, SOUTH_AFRICA;
+}
